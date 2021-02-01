@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Evaluación seguridad Social\Evaluación seguridad Social\obj\Debug\netcoreapp3.1\Evaluación seguridad Social.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Evaluación seguridad Social\Evaluación seguridad Social\obj\Debug\netcoreapp3.1\Evaluación seguridad Social.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Evaluación seguridad Social\Evaluación seguridad Social\obj\Debug\netcoreapp3.1\Evaluación seguridad Social.AssemblyInfo.cs
+C:\Users\User\source\repos\Evaluación seguridad Social\Evaluación seguridad Social\obj\Debug\netcoreapp3.1\Evaluación seguridad Social.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Evaluación seguridad Social\Evaluación seguridad Social\bin\Debug\netcoreapp3.1\Evaluación seguridad Social.exe
+C:\Users\User\source\repos\Evaluación seguridad Social\Evaluación seguridad Social\bin\Debug\netcoreapp3.1\Evaluación seguridad Social.deps.json
+C:\Users\User\source\repos\Evaluación seguridad Social\Evaluación seguridad Social\bin\Debug\netcoreapp3.1\Evaluación seguridad Social.runtimeconfig.json
+C:\Users\User\source\repos\Evaluación seguridad Social\Evaluación seguridad Social\bin\Debug\netcoreapp3.1\Evaluación seguridad Social.runtimeconfig.dev.json
+C:\Users\User\source\repos\Evaluación seguridad Social\Evaluación seguridad Social\bin\Debug\netcoreapp3.1\Evaluación seguridad Social.dll
+C:\Users\User\source\repos\Evaluación seguridad Social\Evaluación seguridad Social\bin\Debug\netcoreapp3.1\Evaluación seguridad Social.pdb
+C:\Users\User\source\repos\Evaluación seguridad Social\Evaluación seguridad Social\obj\Debug\netcoreapp3.1\Evaluación seguridad Social.dll
+C:\Users\User\source\repos\Evaluación seguridad Social\Evaluación seguridad Social\obj\Debug\netcoreapp3.1\Evaluación seguridad Social.pdb
+C:\Users\User\source\repos\Evaluación seguridad Social\Evaluación seguridad Social\obj\Debug\netcoreapp3.1\Evaluación seguridad Social.genruntimeconfig.cache
